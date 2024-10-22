@@ -17,6 +17,8 @@
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" /></a>
 <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
 <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/phpMyAdmin-6C4C8A?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
+
 
 
 ### Currently Learning 📚
