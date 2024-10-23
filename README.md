@@ -35,7 +35,7 @@
 - I think in algorithms 🧠, dream in code 💻, and find beauty in equations ✨.
 - Forever curious and always looking for the next challenge to tackle!
 - 
-## 🌍 Interests Beyond Tech
+### 🌍 Interests Beyond Tech
 Outside of coding, I have a deep fascination with:
 - **Space Exploration** 🚀 — I love imagining the vastness of space.
 - **Ocean Depths** 🌊 — The mysteries of the deep sea are always intriguing.
