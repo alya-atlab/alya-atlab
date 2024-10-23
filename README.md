@@ -36,7 +36,7 @@
 - Forever curious and always looking for the next challenge to tackle!
   
 ### Interests Beyond Tech 🌍
-Outside of coding, I have a deep fascination with:
+When I’m not coding, you can find me exploring new areas in:
 - **Space Exploration** 🚀 — I love imagining the vastness of space.
 - **Ocean Depths** 🌊 — The mysteries of the deep sea are always intriguing.
 - **Reading** 📚 — I enjoy diving into different genres and expanding my mind through books.
