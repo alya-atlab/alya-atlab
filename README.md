@@ -34,6 +34,14 @@
 ### Fun Facts 🔥
 - I think in algorithms 🧠, dream in code 💻, and find beauty in equations ✨.
 - Forever curious and always looking for the next challenge to tackle!
+- 
+## 🌍 Interests Beyond Tech
+Outside of coding, I have a deep fascination with:
+- **Space Exploration** 🚀 — I love imagining the vastness of space.
+- **Ocean Depths** 🌊 — The mysteries of the deep sea are always intriguing.
+- **Reading** 📚 — I enjoy diving into different genres and expanding my mind through books.
+- **Coffee** ☕ — Coffee is my fuel for productivity and creativity!
+
 
 ### GitHub Stats 📈
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alya-atlab&show_icons=true&theme=radical)
