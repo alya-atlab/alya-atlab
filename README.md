@@ -34,13 +34,14 @@
 ### Fun Facts 🔥
 - I think in algorithms 🧠, dream in code 💻, and find beauty in equations ✨.
 - Forever curious and always looking for the next challenge to tackle!
+- Coffee is my fuel for productivity and creativity!
   
 ### Interests Beyond Tech 🌍
 When I’m not coding, you can find me exploring new areas in:
+- **Mathematics** 🧮 (I love tackling complex problems)
 - **Space Exploration** 🚀 — I love imagining the vastness of space.
 - **Ocean Depths** 🌊 — The mysteries of the deep sea are always intriguing.
 - **Reading** 📚 — I enjoy diving into different genres and expanding my mind through books.
-- **Coffee** ☕ — Coffee is my fuel for productivity and creativity!
 
 
 ### GitHub Stats 📈
