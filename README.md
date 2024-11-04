@@ -47,4 +47,4 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alya-atlab&show_icons=true&theme=radical)
 
 ### Let's Chat! 💬
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/alya-atlab-7030522b0/). Let’s build something awesome together!
+- Connect with me by [Email](alyaatlab@gmail.com). Let’s build something awesome together!
