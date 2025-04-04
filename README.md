@@ -26,10 +26,17 @@
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-00BFFF?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" /></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://img.shields.io/badge/Machine%20Learning-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" /></a>
 
-### What I’m up to 💡
-- 🔍 Diving deep into **AI** and **ML** projects that push the boundaries of what machines can learn.
-- 🌍 Exploring the fascinating world of **IoT**, creating seamless integrations between the physical and digital.
-- 🧮 Applying my love for **Math** to solve problems and create optimized, efficient solutions.
+# What I’m Up To 💡
+
+## 🔍 Exploring AI & Machine Learning
+Building small projects to understand how machines can learn and make decisions.
+
+## 🌍 Learning IoT
+Experimenting with how to connect the physical and digital worlds through smart systems.
+
+## 🧮 Love for Math
+Using my passion for math to approach problems logically and develop efficient, optimized solutions as I grow in my software development journey.
+
 
 ### Fun Facts 🔥
 - I think in algorithms 🧠, dream in code 💻, and find beauty in equations ✨.
