@@ -28,9 +28,9 @@
 
 # What I’m Up To 💡
 
- -🔍**Exploring AI & Machine Learning** Building small projects to understand how machines can learn and make decisions.
- -🌍 **Learning IoT Experimenting** with how to connect the physical and digital worlds through smart systems.
- -🧮 **Love for Math** Using my passion for math to approach problems logically and develop efficient, optimized solutions as I grow in my software development journey.
+ - 🔍**Exploring AI & Machine Learning** Building small projects to understand how machines can learn and make decisions.
+ - 🌍 **Learning IoT Experimenting** with how to connect the physical and digital worlds through smart systems.
+ - 🧮 **Love for Math** Using my passion for math to approach problems logically and develop efficient, optimized solutions as I grow in my software development journey.
 
 
 ### Fun Facts 🔥
