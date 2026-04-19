@@ -29,7 +29,7 @@ Interactive Sudoku game with validation logic and responsive UI.
 
 ## Currently
 
-- Building additional MERN portfolio projects
+- Building BookStore MERN portfolio projects
 - Improving backend architecture skills
 - Actively seeking a junior full stack developer role
 
