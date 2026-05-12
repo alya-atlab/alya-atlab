@@ -19,13 +19,6 @@ Full-stack e-commerce platform with JWT authentication, protected routes, cart m
 
 Tech: TypeScript, React, Node.js, Express, MongoDB, JWT, MUI
 
-### Savr — Food Waste Reduction Platform
-Full-stack web & mobile platform connecting restaurants with consumers to reduce surplus food.
-
-Tech: PHP, MySQL, Flutter, REST APIs
-
-### Sudoku Game — React + TypeScript
-Interactive Sudoku game with validation logic and responsive UI.
 
 ## Currently
 
